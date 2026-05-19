@@ -1,4 +1,4 @@
-FROM n8nio/runners:1.123.44
+FROM n8nio/runners:2.21.3
 USER root
 
 # Install pyyaml for Python
